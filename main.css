@@ -23,13 +23,6 @@ html {
 
 
 .button-dark{
-    background-image: url(photo.button/1.png);
-    width: 263px;
-    height: 71px;
-    padding: 21px 67px 23px 34px;
-}
-
-.button-dark{
     background-image: url(photo.button/4.png);
     width: 207px;
     height: 71px;
