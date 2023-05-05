@@ -19,6 +19,8 @@ html {
     border: 2px solid #292F36;
     color: #FFFFFF;
     font-size: 18px;
+    background-repeat:  no-repeat;
+    background-position: center;
 }
 
 
@@ -37,8 +39,6 @@ html {
     width: 70px;
     height: 70px;
     padding: 28.31px 31.29px 28.31px 32.77px;
-    background-repeat:  no-repeat;
-    background-position: center;
 }
 
 .button-arrow-round{
@@ -49,5 +49,4 @@ html {
     width: 241px;
     height: 71px;
     padding: 21px 67px 23px 34px;
-    background-position: center;
 }
