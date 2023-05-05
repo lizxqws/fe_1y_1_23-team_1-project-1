@@ -11,3 +11,49 @@ html {
     width: 1200px;
     margin: 0 auto;
 }
+
+.allbutton{
+    box-sizing: border-box;
+    border-radius: 18px;
+    background: #292F36;
+    border: 2px solid #292F36;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+.button1{
+    background-image: url(photo.button/4.png);
+    width: 207px;
+    height: 71px;
+    padding: 22px 67px 22px 34px;
+}
+
+.button2{
+    background-image: url(photo.button/1.png);
+    width: 263px;
+    height: 71px;
+    padding: 21px 67px 23px 34px;
+}
+
+.button3{
+    background-color: #F4F0EC;
+    border-radius: 100px;
+    border: 2px solid  #F4F0EC;;
+    background-image: url(photo.button/3.png);
+    width: 70px;
+    height: 70px;
+    padding: 28.31px 31.29px 28.31px 32.77px;
+    background-repeat:  no-repeat;
+    background-position: center;
+}
+
+.button4{
+    background-image: url(photo.button/2.png);
+    background-color: #CDA274;
+    border: 2px solid #CDA274;
+    box-shadow: 1px 0px 18px rgba(0, 0, 0, 0.2);
+    width: 241px;
+    height: 71px;
+    padding: 21px 67px 23px 34px;
+    background-position: center;
+}
