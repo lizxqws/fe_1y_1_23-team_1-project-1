@@ -24,9 +24,9 @@ html {
 
 
 .button-dark{
-    background-image: url(photo.button/4.png);
     background: #292F36;
     border-color:#292F36;
+    background-image: url(photo.button/1.png);
     width: 207px;
     padding: 22px 67px 22px 34px;
 }
@@ -42,9 +42,9 @@ html {
 }
 
 .button-arrow-round{
-    background-image: url(photo.button/2.png);
     background-color: #CDA274;
     border-color:#CDA274;
+    background-image: url(photo.button/2.png);
     box-shadow: 1px 0px 18px rgba(0, 0, 0, 0.2);
     width: 241px;
     padding: 21px 67px 23px 34px;
