@@ -13,12 +13,11 @@ html {
 }
 
 .allbutton{
-    box-sizing: border-box;
     border-radius: 18px;
-    background: #292F36;
-    border: 2px solid #292F36;
     color: #FFFFFF;
     font-size: 18px;
+    height: 71px;
+    border: 2px solid;
     background-repeat:  no-repeat;
     background-position: center;
 }
@@ -26,15 +25,16 @@ html {
 
 .button-dark{
     background-image: url(photo.button/4.png);
+    background: #292F36;
+    border-color:#292F36;
     width: 207px;
-    height: 71px;
     padding: 22px 67px 22px 34px;
 }
 
 .button-light{
     background-color: #F4F0EC;
+    border-color:#F4F0EC;
     border-radius: 100px;
-    border: 2px solid  #F4F0EC;;
     background-image: url(photo.button/3.png);
     width: 70px;
     height: 70px;
@@ -44,9 +44,8 @@ html {
 .button-arrow-round{
     background-image: url(photo.button/2.png);
     background-color: #CDA274;
-    border: 2px solid #CDA274;
+    border-color:#CDA274;
     box-shadow: 1px 0px 18px rgba(0, 0, 0, 0.2);
     width: 241px;
-    height: 71px;
     padding: 21px 67px 23px 34px;
 }
