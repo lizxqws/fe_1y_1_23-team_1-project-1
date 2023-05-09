@@ -7,7 +7,27 @@ html {
     font-size: 22px;
 }
 
-.container {
+.conteiner {
     width: 1200px;
     margin: 0 auto;
+    
+}
+
+.headertext {
+margin: 20px;
+height: 30px;
+}
+.conteiner1 {
+    text-align: right;
+    display: flex;
+}
+
+.logo {
+    height: 50px;
+    width: 177px;
+}
+.headerconteiner {
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
 }
