@@ -34,9 +34,11 @@ html {
 .button-light{
     background-color: #F4F0EC;
     border-color:#F4F0EC;
-    border-radius: 100px;
+    border-radius: 50%;
     width: 70px;
     height: 70px;
+    justify-content: center;
+    align-items: center;
 }
 
 .button-arrow-round{
@@ -51,11 +53,6 @@ html {
 
 .button-dark img{
     padding-left: 20px;
-}
-
-.button-light img{
-    padding-left: 23.77px;
-    padding-top: 23.31px;
 }
 
 .button-arrow-round img{
