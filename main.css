@@ -1,15 +1,58 @@
 * {
-    box-sizing: border-box
+  box-sizing: border-box;
 }
 
 html {
-    font-family: "Jost", sans-serif;
-    font-size: 22px;
+  font-family: "Jost", sans-serif;
+  font-size: 22px;
 }
 
 .container {
-    width: 1200px;
-    margin: 0 auto;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.ftr-block {
+  display: flex;
+}
+
+.ftr-card {
+  width: 210px;
+  height: 374px;
+  margin-right: 16px;
+}
+
+.ftr-card:last-child {
+  margin-left: 0;
+}
+
+.ftr-card > h2 {
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  color: #292f36;
+}
+
+.ftr-list {
+  margin-top: 22px;
+  margin-right: 60px;
+  margin-bottom: 30px;
+}
+
+.ftr-item {
+  font-weight: 400;
+  line-height: 33px;
+  color: #4d5053;
+  margin-bottom: 30px;
+}
+
+.ftr-card-3 {
+  width: 337px;
+}
+
+.ftr-list-3 {
+  width: 337px;
 }
 
 .button{
