@@ -20,12 +20,12 @@ html {
     white-space: nowrap; 
 }
 
-.client{
+.clients{
     display: flex;
     margin:auto 0;
     padding-left: 130px;
 }
 
-.client1{
+.clients1{
     padding-left: 0;
 }
