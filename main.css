@@ -54,3 +54,50 @@ html {
 .ftr-list-3 {
   width: 337px;
 }
+
+.button{
+    display: flex;
+    border-radius: 18px;
+    color: #FFFFFF;
+    font-size: 18px;
+    height: 71px;
+    border: 2px solid;
+}
+
+
+.button-dark{
+    background: #292F36;
+    border-color:#292F36;
+    width: 207px;
+    padding-left: 34px;
+    padding-right: 21px;
+    align-items: center;
+}
+
+.button-light{
+    background-color: #F4F0EC;
+    border-color:#F4F0EC;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-arrow-round{
+    background-color: #CDA274;
+    border-color:#CDA274;
+    box-shadow: 1px 0px 18px rgba(0, 0, 0, 0.2);
+    width: 241px;
+    align-items: center;
+    padding-left: 34px;
+    padding-right: 7px;
+}
+
+.button-dark img{
+    padding-left: 20px;
+}
+
+.button-arrow-round img{
+    padding-left: 20px;
+}
