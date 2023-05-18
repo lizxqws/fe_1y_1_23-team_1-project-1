@@ -1,16 +1,105 @@
 * {
-    box-sizing: border-box
+  box-sizing: border-box;
 }
 
 html {
-    font-family: "Jost", sans-serif;
-    font-size: 22px;
+  font-family: "Jost", sans-serif;
+  font-size: 22px;
 }
 
-.conteiner {
-    width: 1200px;
-    margin: 0 auto;
-    
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.ftr-block {
+  display: flex;
+}
+
+.ftr-card {
+  width: 210px;
+  height: 374px;
+  margin-right: 16px;
+}
+
+.ftr-card:last-child {
+  margin-left: 0;
+}
+
+.ftr-card > h2 {
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  color: #292f36;
+}
+
+.ftr-list {
+  margin-top: 22px;
+  margin-right: 60px;
+  margin-bottom: 30px;
+}
+
+.ftr-item {
+  font-weight: 400;
+  line-height: 33px;
+  color: #4d5053;
+  margin-bottom: 30px;
+}
+
+.ftr-card-3 {
+  width: 337px;
+}
+
+.ftr-list-3 {
+  width: 337px;
+}
+
+.button{
+    display: flex;
+    border-radius: 18px;
+    color: #FFFFFF;
+    font-size: 18px;
+    height: 71px;
+    border: 2px solid;
+}
+
+
+.button-dark{
+    background: #292F36;
+    border-color:#292F36;
+    width: 207px;
+    padding-left: 34px;
+    padding-right: 21px;
+    align-items: center;
+}
+
+.button-light{
+    background-color: #F4F0EC;
+    border-color:#F4F0EC;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-arrow-round{
+    background-color: #CDA274;
+    border-color:#CDA274;
+    box-shadow: 1px 0px 18px rgba(0, 0, 0, 0.2);
+    width: 241px;
+    align-items: center;
+    padding-left: 34px;
+    padding-right: 7px;
+}
+
+.button-dark img{
+    padding-left: 20px;
+}
+
+.button-arrow-round img{
+    padding-left: 20px;
 }
 
 .headertext {
