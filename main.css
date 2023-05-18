@@ -17,8 +17,7 @@ html {
 margin: 20px;
 height: 30px;
 }
-.conteiner1 {
-    text-align: right;
+.navigation-container {
     display: flex;
 }
 
