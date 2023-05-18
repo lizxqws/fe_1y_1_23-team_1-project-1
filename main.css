@@ -101,3 +101,24 @@ html {
 .button-arrow-round img{
     padding-left: 20px;
 }
+
+.headertext {
+margin: 20px;
+height: 30px;
+}
+.navigation-container {
+    display: flex;
+}
+
+.logo {
+    height: 50px;
+    width: 177px;
+}
+.headerconteiner {
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+}
+.headertext:hover {
+    color: #CDA274;
+}
