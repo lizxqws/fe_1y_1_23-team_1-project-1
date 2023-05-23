@@ -116,6 +116,7 @@ html {
   letter-spacing: 0.22px;
 }
 
+
 .service-item-title {
   font-family: "DM Serif Display";
   font-weight: 400;
@@ -163,4 +164,24 @@ html {
   letter-spacing: 0.36px;
   color: #4d5053;
   text-decoration: none;
+}
+.headertext {
+margin: 20px;
+height: 30px;
+}
+.navigation-container {
+    display: flex;
+}
+
+.logo {
+    height: 50px;
+    width: 177px;
+}
+.headerconteiner {
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+}
+.headertext:hover {
+    color: #CDA274;
 }
