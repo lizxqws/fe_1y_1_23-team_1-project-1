@@ -113,6 +113,7 @@ html {
   align-items: center;
   text-align: center;
   width: 400px;
+  letter-spacing: 0.22px;
 }
 
 .service-item-title {
@@ -159,6 +160,7 @@ html {
   font-weight: 400;
   font-size: 18px;
   line-height: 27px;
+  letter-spacing: 0.36px;
   color: #4d5053;
   text-decoration: none;
 }
