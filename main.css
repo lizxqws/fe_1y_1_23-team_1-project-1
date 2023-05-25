@@ -122,3 +122,159 @@ height: 30px;
 .headertext:hover {
     color: #CDA274;
 }
+.reviews-container {
+    height: 675px;
+    width: 1200px;
+    background: #F4F0EC;
+    border-radius: 70px;
+    padding-top: 103px;
+}
+.texttitle-reviews {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    margin-left: 361px;
+    width: 479px;
+    height: 59px;
+    text-align: center;
+    color: #292F36;
+    font-family: 'DM Serif Display';
+}
+.container-LisaClairton {
+    margin-top: 80px;
+    height: 287px;
+    width: 354px;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 51px;
+}
+.img-LisaClairton {
+    margin-top: 50px;
+    margin-left: 35px;
+}
+.titleLisaClairton {
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.text1-titleLisaClairton {
+    font-family: 'DM Serif Display';
+    color: #292F36;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+}
+.text2-titleLisaClairton {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4D5053;
+    font-style: normal;
+    font-weight: 400;
+}
+.text3-titleLisaClairton {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+ padding-right: 20px;
+}
+
+.allcontainer {
+    display: flex;
+    margin-left: 30px;
+}
+.container-DavidKnight {
+    margin-top: 80px;
+    height: 287px;
+    width: 354px;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 18px;
+}
+.img-DavidKnight {
+    margin-top: 50px;
+    margin-left: 35px;
+}
+.titleDavidKnigh {
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.text1-titleDavidKnight {
+    font-family: 'DM Serif Display';
+    color: #292F36;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+}
+.text2-titleDavidKnight {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4D5053;
+    font-style: normal;
+    font-weight: 400;
+}
+.text3-titleDavidKnight {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+.alltitleDavidKnight {
+    display: flex;
+}
+.container-LisaClairton {
+    margin-top: 80px;
+    height: 287px;
+    width: 354px;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 18px;
+}
+.img-LisaClairton {
+    margin-top: 50px;
+    margin-left: 35px;
+}
+.titleLisaClairton {
+    margin-top: 55px;
+    margin-left: 20px;
+}
+.text1-titleLisaClairton {
+    font-family: 'DM Serif Display';
+    color: #292F36;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+}
+.text2-titleLisaClairton {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4D5053;
+    font-style: normal;
+    font-weight: 400;
+}
+.text3-titleLisaClairton {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+.alltitleLisaClairton {
+    display: flex;
+}
+.titleforflex {
+    display: flex;
+}
+
+
