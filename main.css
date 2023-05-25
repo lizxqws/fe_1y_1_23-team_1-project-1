@@ -14,18 +14,13 @@ html {
 
 .our_clients{
     display: flex;
-    width: 1200px;
-    height: 103px;
-    margin: 0 120px;
-    white-space: nowrap; 
 }
 
 .clients{
-    display: flex;
     margin:auto 0;
     padding-left: 130px;
 }
 
-.clients1{
+.client1{
     padding-left: 0;
 }
