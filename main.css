@@ -173,15 +173,30 @@ height: 30px;
     display: flex;
 }
 
+.our_clients{
+  display: flex;
+}
+
+.clients{
+    margin:auto 0;
+    padding-left: 130px;
+}
+
+.client1{
+    padding-left: 0;
+}
+
 .logo {
     height: 50px;
     width: 177px;
 }
+
 .headerconteiner {
     display: flex;
     flex-direction: row;
    justify-content: space-between;
 }
+
 .headertext:hover {
     color: #CDA274;
 }
