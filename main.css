@@ -71,6 +71,7 @@ html {
   padding-left: 34px;
   padding-right: 21px;
   align-items: center;
+  margin: 0 1113px 260px 120px;
 }
 
 .button-light {
@@ -199,4 +200,24 @@ height: 30px;
 
 .headertext:hover {
     color: #CDA274;
+}
+
+.banner{
+  background-image:url(assets/bghone.png) ;
+  background-size: 1440px 831px;
+  background-repeat: no-repeat;
+  height: 831px;
+  width: 1440px;
+}
+
+.bigtext{
+  padding : 188px 725px 19px 120px;
+  font-family: 'DM Serif Display', serif;
+  font-size: 80px;
+  color: #292f36;
+}
+
+.text{
+  padding: 0 743px 35px 120px;
+  color: #4D5053;
 }
