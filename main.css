@@ -71,7 +71,6 @@ html {
   padding-left: 34px;
   padding-right: 21px;
   align-items: center;
-  margin: 0 1113px 260px 120px;
 }
 
 .button-light {
@@ -204,7 +203,7 @@ height: 30px;
 
 .banner{
   background-image:url(assets/bghone.png) ;
-  background-size: 100% 831px;
+  background-size: 100%;
   background-repeat: no-repeat;
   height: 831px;
   width: 100%;
@@ -219,4 +218,9 @@ height: 30px;
 
 .text{
   padding: 0 743px 35px 120px;
+}
+
+.button-dark-top{
+  margin-left: 120px;
+  
 }
