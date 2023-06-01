@@ -47,12 +47,9 @@ html {
   margin-bottom: 30px;
 }
 
-.ftr-card-3 {
-  width: 337px;
-}
-
 .ftr-list-3 {
-  width: 337px;
+  width: 321px;
+  margin-right: 136px;
 }
 
 .button {
@@ -199,4 +196,26 @@ height: 30px;
 
 .headertext:hover {
     color: #CDA274;
+}
+
+.the_line{
+  border: 1px solid #E5E5E5;;
+}
+
+.ftr-logo-card{
+  margin-left: 120px;
+}
+
+.ftr-text{
+  color: #4D5053;
+  margin: 25px 83px 30px 0;
+  width: 326px;
+}
+
+.logo{
+  margin-right: 40px;
+}
+
+.logoIG{
+  margin-right: 0;
 }
