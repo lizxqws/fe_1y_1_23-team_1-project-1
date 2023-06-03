@@ -222,7 +222,8 @@ height: 30px;
 }
 
 .copyright{
-  margin: 35px 325px 36px;
+  padding: 35px 325px 36px;
+  color: #4D5053;
 }
 
 .ftr-ftr{
@@ -250,4 +251,16 @@ height: 30px;
 .CUGaFC{
   color: #ffffff;
   padding: 0 414px 0 415px;
+}
+
+.nikname{
+  color: #CDA274;;
+}
+
+.ftr{
+  width: 1440px;
+}
+
+.ftr-logo-card{
+  margin-left: 120px;
 }
