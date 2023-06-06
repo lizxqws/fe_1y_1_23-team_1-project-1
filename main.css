@@ -116,7 +116,6 @@ html {
   letter-spacing: 0.22px;
 }
 
-
 .service-item-title {
   font-family: "DM Serif Display";
   font-weight: 400;
@@ -166,37 +165,120 @@ html {
   text-decoration: none;
 }
 .headertext {
-margin: 20px;
-height: 30px;
+  margin: 20px;
+  height: 30px;
 }
 .navigation-container {
-    display: flex;
-}
-
-.our_clients{
   display: flex;
 }
 
-.clients{
-    margin:auto 0;
-    padding-left: 130px;
+.our_clients {
+  display: flex;
 }
 
-.client1{
-    padding-left: 0;
+.clients {
+  margin: auto 0;
+  padding-left: 130px;
+}
+
+.client1 {
+  padding-left: 0;
 }
 
 .logo {
-    height: 50px;
-    width: 177px;
+  height: 50px;
+  width: 177px;
 }
 
 .headerconteiner {
-    display: flex;
-    flex-direction: row;
-   justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .headertext:hover {
-    color: #CDA274;
+  color: #cda274;
+}
+
+.sctn_info_container {
+  display: flex;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 140px;
+}
+
+.sctn_info_block {
+  width: 592px;
+  margin-right: 16px;
+}
+
+.sctn_info_image {
+  width: 592px;
+  height: 608px;
+}
+
+.button-dark-sctn_info {
+  width: 263px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.sctn_info_block-title {
+  width: 450px;
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  letter-spacing: 0.22px;
+  color: #292f36;
+  margin-top: 13px;
+  margin-bottom: 42px;
+}
+
+.sctn_info_block-text {
+  width: 531px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.22px;
+  margin-right: 61px;
+  color: #4d5053;
+}
+
+.sctn_info_card {
+  display: flex;
+  align-items: center;
+  width: 532px;
+  height: 100%;
+}
+
+.info_card-item {
+  width: 154px;
+  font-weight: 400;
+  color: #4d5053;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.info_card-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 93px;
+  height: 93px;
+  background: #f4f0ec;
+  border-radius: 50%;
+  border: none;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.info_card-phone-number {
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.22px;
+}
+
+.info_card-call-to-action {
+  font-size: 22px;
+  line-height: 33px;
 }
