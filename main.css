@@ -209,18 +209,18 @@ height: 30px;
   width: 100%;
 }
 
-.bigtext{
-  padding : 188px 725px 19px 120px;
+.bigtitle{
+  padding: 188px 0 19px 120px;
   font-family: 'DM Serif Display', serif;
   font-size: 80px;
   color: #292f36;
+  width: 725px;
 }
 
-.text{
+.title{
   padding: 0 743px 35px 120px;
 }
 
 .button-dark-top{
   margin-left: 120px;
-  
 }
