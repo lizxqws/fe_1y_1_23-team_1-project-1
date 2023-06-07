@@ -218,7 +218,8 @@ height: 30px;
 }
 
 .title{
-  padding: 0 743px 35px 120px;
+  padding: 0 0 35px 120px;
+  width: 743px;
 }
 
 .button-dark-top{
