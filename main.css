@@ -217,7 +217,7 @@ height: 30px;
   margin-right: 40px;
 }
 
-.logoIG{
+.logo:last-child{
   margin-right: 0;
 }
 
@@ -245,12 +245,13 @@ height: 30px;
 }
 
 .lastbutton{
-  padding: 31px 485px 95px 474px;
+  padding: 31px 0 95px 474px;
+  width: 485px;
 }
 
 .CUGaFC{
   color: #ffffff;
-  padding: 0 414px 0 415px;
+  padding-left: 415px;
 }
 
 .nikname{
@@ -258,7 +259,7 @@ height: 30px;
 }
 
 .ftr{
-  width: 1440px;
+  width: 100%;
 }
 
 .ftr-logo-card{
