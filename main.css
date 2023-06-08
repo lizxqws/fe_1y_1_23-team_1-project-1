@@ -116,7 +116,6 @@ html {
   letter-spacing: 0.22px;
 }
 
-
 .service-item-title {
   font-family: "DM Serif Display";
   font-weight: 400;
@@ -166,37 +165,91 @@ html {
   text-decoration: none;
 }
 .headertext {
-margin: 20px;
-height: 30px;
+  margin: 20px;
+  height: 30px;
 }
 .navigation-container {
-    display: flex;
-}
-
-.our_clients{
   display: flex;
 }
 
-.clients{
-    margin:auto 0;
-    padding-left: 130px;
+.our_clients {
+  display: flex;
 }
 
-.client1{
-    padding-left: 0;
+.clients {
+  margin: auto 0;
+  padding-left: 130px;
+}
+
+.client1 {
+  padding-left: 0;
 }
 
 .logo {
-    height: 50px;
-    width: 177px;
+  height: 50px;
+  width: 177px;
 }
 
 .headerconteiner {
-    display: flex;
-    flex-direction: row;
-   justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .headertext:hover {
-    color: #CDA274;
+  color: #cda274;
+}
+
+.sctn_recent-projects {
+  margin-bottom: 80px;
+  font-weight: 400;
+  letter-spacing: 0.22px;
+  color: #4d5053;
+}
+
+.recent-projects-block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.recent-projects-text {
+  margin-bottom: 70px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.recent-projects-text-title {
+  font-family: "DM Serif Display";
+  font-size: 47px;
+  line-height: 62px;
+  color: #292f36;
+}
+
+.recent-projects-text-description {
+  font-size: 22px;
+  line-height: 33px;
+}
+
+.recent-projects-card {
+  width: 590px;
+  margin-bottom: 60px;
+}
+
+.recent-projects-card-text-button {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+}
+
+.recent-projects-card-title {
+  font-family: "DM Serif Display";
+  font-size: 24px;
+  line-height: 38px;
+  color: #292f36;
+}
+
+.recent-projects-card-subtitle {
+  font-size: 22px;
+  line-height: 33px;
 }
