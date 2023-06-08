@@ -203,7 +203,7 @@ height: 30px;
 
 .the_line{
   border: 1px solid #E5E5E5;
-  width: 1440px;
+  width: 100vw;
 }
 
 
@@ -222,18 +222,19 @@ height: 30px;
 }
 
 .copyright{
-  padding: 35px 325px 36px;
+  padding: 35px 0 36px;
   color: #4D5053;
 }
 
 .ftr-ftr{
   width: 1440px;
+  text-align: center;
 }
 
 .contactUs{
   background-color: #292F36;
   border-radius: 70px;
-  margin: 141px 120px 129px;
+  margin: 141px auto 129px;
 }
 
 
@@ -261,10 +262,6 @@ height: 30px;
   color: #CDA274;
 }
 
-.ftr{
-  width: 100%;
-}
 
 .ftr-logo-card{
-  margin-left: 120px;
 }
