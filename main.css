@@ -48,11 +48,11 @@ html {
 }
 
 .ftr-card-3 {
-  width: 337px;
+  width: 321px;
 }
 
 .ftr-list-3 {
-  width: 337px;
+  width: 321px;
 }
 
 .button {
@@ -197,8 +197,70 @@ html {
 }
 
 .headertext:hover {
-  color: #cda274;
+  color: #CDA274;
 }
+
+.the_line{
+  border: 1px solid #E5E5E5;
+  width: 100vw;
+}
+
+
+.ftr-text{
+  color: #4D5053;
+  margin: 25px 83px 30px 0;
+  width: 326px;
+}
+
+.logo{
+  margin-right: 40px;
+}
+
+.logo:last-child{
+  margin-right: 0;
+}
+
+.copyright{
+  padding: 35px 0 36px;
+  color: #4D5053;
+}
+
+.ftr-ftr{
+  width: 1440px;
+  text-align: center;
+}
+
+.contactUs{
+  background-color: #292F36;
+  border-radius: 70px;
+  margin: 141px auto 129px;
+}
+
+
+.Wjti{
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'DM Serif Display', serif;
+  padding: 100px 0 9px;
+  text-align: center;
+}
+
+.lastbutton{
+  padding: 31px 0 95px 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.CUGaFC{
+  color: #ffffff;
+  text-align: center;
+}
+
+.nikname{
+  color: #CDA274;
+}
+
 
 .sctn_info_container {
   display: flex;
