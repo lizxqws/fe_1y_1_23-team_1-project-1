@@ -196,6 +196,31 @@ html {
   justify-content: space-between;
 }
 
+.banner{
+  background-image:url(assets/bghone.png) ;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 831px;
+  width: 100%;
+}
+
+.bigtitle{
+  padding: 188px 0 19px 120px;
+  font-family: 'DM Serif Display', serif;
+  font-size: 80px;
+  color: #292f36;
+  width: 595px;
+}
+
+.title{
+  padding: 0 0 35px 120px;
+  width: 577px;
+}
+
+.button-dark-top{
+  margin-left: 120px; 
+}
+
 .headertext:hover {
   color: #CDA274;
 }
