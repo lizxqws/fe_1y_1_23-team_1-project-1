@@ -230,6 +230,60 @@ html {
   width: 100vw;
 }
 
+.sctn_recent-projects {
+  margin-bottom: 80px;
+  font-weight: 400;
+  letter-spacing: 0.22px;
+  color: #4d5053;
+}
+
+.recent-projects-block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.recent-projects-text {
+  margin-bottom: 70px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.recent-projects-text-title {
+  font-family: "DM Serif Display";
+  font-size: 47px;
+  line-height: 62px;
+  color: #292f36;
+  margin-bottom: 20px;
+}
+
+.recent-projects-text-description {
+  font-size: 22px;
+  line-height: 33px;
+}
+
+.recent-projects-card {
+  width: 590px;
+  margin-bottom: 60px;
+}
+
+.recent-projects-card-text-button {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+}
+
+.recent-projects-card-title {
+  font-family: "DM Serif Display";
+  font-size: 24px;
+  line-height: 38px;
+  color: #292f36;
+}
+
+.recent-projects-card-subtitle {
+  font-size: 22px;
+  line-height: 33px;
+}
 
 .ftr-text{
   color: #4D5053;
@@ -285,7 +339,6 @@ html {
 .nikname{
   color: #CDA274;
 }
-
 
 .sctn_info_container {
   display: flex;
