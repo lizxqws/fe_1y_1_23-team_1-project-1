@@ -222,8 +222,81 @@ html {
 }
 
 .headertext:hover {
-  color: #CDA274;
+    color: #CDA274;
 }
+.reviews-container {
+    height: 675px;
+    width: 1200px;
+    background: #F4F0EC;
+    border-radius: 70px;
+    padding-top: 103px;
+}
+.texttitle-reviews {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    margin-left: 361px;
+    width: 479px;
+    height: 59px;
+    text-align: center;
+    color: #292F36;
+    font-family: 'DM Serif Display';
+}
+.reviewer-item {
+    margin-top: 80px;
+    height: 287px;
+    width: 354px;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 18px;
+}
+.feedback-container {
+    display: flex;
+    margin-left: -18px;
+    justify-content: center;
+}
+.reviewer-item__heading {
+    display: flex;
+}
+
+.reviewer-item__img {
+    margin-top: 50px;
+    margin-left: 35px;
+}
+.reviewer-item__title {
+    margin-top: 55px;
+    margin-left: 20px;   
+}
+.text-titlerewiews1 {
+    font-family: 'DM Serif Display';
+    color: #292F36;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+} 
+.text-titlerewiews2 {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4D5053;
+    font-style: normal;
+    font-weight: 400;
+}
+.text-titlerewiews3 {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+
+
+
+
 
 .the_line{
   border: 1px solid #E5E5E5;
