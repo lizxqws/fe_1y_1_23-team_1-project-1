@@ -48,11 +48,11 @@ html {
 }
 
 .ftr-card-3 {
-  width: 337px;
+  width: 321px;
 }
 
 .ftr-list-3 {
-  width: 337px;
+  width: 321px;
 }
 
 .button {
@@ -196,8 +196,38 @@ html {
   justify-content: space-between;
 }
 
+.banner{
+  background-image:url(assets/bghone.png) ;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 831px;
+  width: 100%;
+}
+
+.bigtitle{
+  padding: 188px 0 19px 120px;
+  font-family: 'DM Serif Display', serif;
+  font-size: 80px;
+  color: #292f36;
+  width: 595px;
+}
+
+.title{
+  padding: 0 0 35px 120px;
+  width: 577px;
+}
+
+.button-dark-top{
+  margin-left: 120px; 
+}
+
 .headertext:hover {
-  color: #cda274;
+  color: #CDA274;
+}
+
+.the_line{
+  border: 1px solid #E5E5E5;
+  width: 100vw;
 }
 
 .sctn_recent-projects {
@@ -253,6 +283,61 @@ html {
 .recent-projects-card-subtitle {
   font-size: 22px;
   line-height: 33px;
+}
+
+.ftr-text{
+  color: #4D5053;
+  margin: 25px 83px 30px 0;
+  width: 326px;
+}
+
+.logo{
+  margin-right: 40px;
+}
+
+.logo:last-child{
+  margin-right: 0;
+}
+
+.copyright{
+  padding: 35px 0 36px;
+  color: #4D5053;
+}
+
+.ftr-ftr{
+  width: 1440px;
+  text-align: center;
+}
+
+.contactUs{
+  background-color: #292F36;
+  border-radius: 70px;
+  margin: 141px auto 129px;
+}
+
+
+.Wjti{
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'DM Serif Display', serif;
+  padding: 100px 0 9px;
+  text-align: center;
+}
+
+.lastbutton{
+  padding: 31px 0 95px 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.CUGaFC{
+  color: #ffffff;
+  text-align: center;
+}
+
+.nikname{
+  color: #CDA274;
 }
 
 .sctn_info_container {
