@@ -200,3 +200,40 @@ height: 30px;
 .headertext:hover {
     color: #CDA274;
 }
+.section-statistics {
+  height: 475px;
+width: 1440px;
+background-color:#F4F0EC;
+border-radius: 0px;;
+border-radius: 0px;
+padding-top: 154px;
+text-align: center;
+}
+.statistics-container-all {
+  display: flex;
+border-radius: 0px;
+justify-content: space-around;
+}
+.statistics-title-text1 {
+border-radius: nullpx;
+font-family: DM Serif Display;
+font-size: 85px;
+font-weight: 400;
+letter-spacing: 1.7000000476837158px;
+text-align: center;
+color: #CDA274;
+}
+.statistics-title-text2 {
+  font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+text-align: center;
+letter-spacing: 0.22px;
+color: #4D5053;
+}
+.vertical1 {
+  border-left: 1px solid  #CDA274;
+  height: 195px;
+}
