@@ -527,6 +527,7 @@ border-radius: 62px;
 border: 1px solid #E7E7E7;
 padding-left: 21px;
 padding-top: 21px;
+margin-left: 20px;
 
 }
 .text1-recent-blogs-container {
@@ -538,6 +539,7 @@ font-size: 25px;
 line-height: 35px;
 letter-spacing: 0.5px;
 color: #292F36;
+margin-top: 15px;
 }
 .text2-recent-blogs-container {
   padding-top: 34px;
@@ -555,8 +557,19 @@ margin-top: 20px;
 }
 .recent-blogs-for_display-flex {
   display: flex;
+  
 }
 .recent-blogs-for_display-flex2 {
 display: flex;
 padding-left: 20px;
+margin-left: 94px;
+}
+.recent-blogs-container-firstline {
+  margin-top: 70px;
+}
+.recent-blogs-container-firstline2 {
+  margin-top: 40px;
+}
+.recent-blogs-size_foto {
+  height: 296px; width: 345px;
 }
