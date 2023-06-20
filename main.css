@@ -548,3 +548,81 @@ html {
   font-size: 22px;
   line-height: 33px;
 }
+
+
+.section-recent-blogs {
+  height: 1343.78125px;
+width: 100%;
+border-radius: 0px;
+
+}
+.titletext-recent-blogs1 {
+  font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 62px;
+letter-spacing: 0.2199999988079071px;
+text-align: center;
+}
+.titletext-recent-blogs2 {
+  font-family: Jost;
+font-size: 22px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0.2199999988079071px;
+text-align: center;
+
+}
+.recent-blogs-containerall {
+  height: 515px;
+width: 387px;
+border-radius: 62px;
+border: 1px solid #E7E7E7;
+padding-left: 21px;
+padding-top: 21px;
+margin-left: 20px;
+
+}
+.text1-recent-blogs-container {
+  height: 70px;
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 35px;
+letter-spacing: 0.5px;
+color: #292F36;
+margin-top: 15px;
+}
+.text2-recent-blogs-container {
+  padding-top: 34px;
+  font-family: Jost;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.2199999988079071px;
+text-align: left;
+
+}
+.button-recent-blogs {
+  padding-left: 125px;
+margin-top: 20px;
+}
+.recent-blogs-for_display-flex {
+  display: flex;
+  
+}
+.recent-blogs-for_display-flex2 {
+display: flex;
+padding-left: 20px;
+margin-left: 94px;
+}
+.recent-blogs-container-firstline {
+  margin-top: 70px;
+}
+.recent-blogs-container-firstline2 {
+  margin-top: 40px;
+}
+.recent-blogs-size_foto {
+  height: 296px; width: 345px;
+}
