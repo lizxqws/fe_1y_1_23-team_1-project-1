@@ -48,11 +48,11 @@ html {
 }
 
 .ftr-card-3 {
-  width: 337px;
+  width: 321px;
 }
 
 .ftr-list-3 {
-  width: 337px;
+  width: 321px;
 }
 
 .button {
@@ -115,7 +115,6 @@ html {
   width: 400px;
   letter-spacing: 0.22px;
 }
-
 
 .service-item-title {
   font-family: "DM Serif Display";
@@ -208,8 +207,6 @@ html {
   width: 100%;
   background-color: #F4F0EC;
   border-radius: 0px;
-  ;
-  border-radius: 0px;
   padding-top: 154px;
 
 }
@@ -249,4 +246,305 @@ html {
 
 .section-statistics-border:last-child {
   border: none;
+}
+
+
+.banner{
+  background-image:url(assets/bghone.png) ;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 831px;
+  width: 100%;
+}
+
+.bigtitle{
+  padding: 188px 0 19px 120px;
+  font-family: 'DM Serif Display', serif;
+  font-size: 80px;
+  color: #292f36;
+  width: 595px;
+}
+
+.title{
+  padding: 0 0 35px 120px;
+  width: 577px;
+}
+
+.button-dark-top{
+  margin-left: 120px; 
+}
+
+.headertext:hover {
+    color: #CDA274;
+}
+.reviews-container {
+    height: 675px;
+    width: 1200px;
+    background: #F4F0EC;
+    border-radius: 70px;
+    padding-top: 103px;
+}
+.texttitle-reviews {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    margin-left: 361px;
+    width: 479px;
+    height: 59px;
+    text-align: center;
+    color: #292F36;
+    font-family: 'DM Serif Display';
+}
+.reviewer-item {
+    margin-top: 80px;
+    height: 287px;
+    width: 354px;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 18px;
+}
+.feedback-container {
+    display: flex;
+    margin-left: -18px;
+    justify-content: center;
+}
+.reviewer-item__heading {
+    display: flex;
+}
+
+.reviewer-item__img {
+    margin-top: 50px;
+    margin-left: 35px;
+}
+.reviewer-item__title {
+    margin-top: 55px;
+    margin-left: 20px;   
+}
+.text-titlerewiews1 {
+    font-family: 'DM Serif Display';
+    color: #292F36;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+} 
+.text-titlerewiews2 {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4D5053;
+    font-style: normal;
+    font-weight: 400;
+}
+.text-titlerewiews3 {
+    font-family: 'Jost';
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+
+
+
+
+
+.the_line{
+  border: 1px solid #E5E5E5;
+  width: 100vw;
+}
+
+.sctn_recent-projects {
+  margin-bottom: 80px;
+  font-weight: 400;
+  letter-spacing: 0.22px;
+  color: #4d5053;
+}
+
+.recent-projects-block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.recent-projects-text {
+  margin-bottom: 70px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.recent-projects-text-title {
+  font-family: "DM Serif Display";
+  font-size: 47px;
+  line-height: 62px;
+  color: #292f36;
+  margin-bottom: 20px;
+}
+
+.recent-projects-text-description {
+  font-size: 22px;
+  line-height: 33px;
+}
+
+.recent-projects-card {
+  width: 590px;
+  margin-bottom: 60px;
+}
+
+.recent-projects-card-text-button {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+}
+
+.recent-projects-card-title {
+  font-family: "DM Serif Display";
+  font-size: 24px;
+  line-height: 38px;
+  color: #292f36;
+}
+
+.recent-projects-card-subtitle {
+  font-size: 22px;
+  line-height: 33px;
+}
+
+.ftr-text{
+  color: #4D5053;
+  margin: 25px 83px 30px 0;
+  width: 326px;
+}
+
+.logo{
+  margin-right: 40px;
+}
+
+.logo:last-child{
+  margin-right: 0;
+}
+
+.copyright{
+  padding: 35px 0 36px;
+  color: #4D5053;
+}
+
+.ftr-ftr{
+  width: 1440px;
+  text-align: center;
+}
+
+.contactUs{
+  background-color: #292F36;
+  border-radius: 70px;
+  margin: 141px auto 129px;
+}
+
+
+.Wjti{
+  color: #ffffff;
+  font-size: 50px;
+  font-family: 'DM Serif Display', serif;
+  padding: 100px 0 9px;
+  text-align: center;
+}
+
+.lastbutton{
+  padding: 31px 0 95px 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.CUGaFC{
+  color: #ffffff;
+  text-align: center;
+}
+
+.nikname{
+  color: #CDA274;
+}
+
+.sctn_info_container {
+  display: flex;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 140px;
+}
+
+.sctn_info_block {
+  width: 592px;
+  margin-right: 16px;
+}
+
+.sctn_info_image {
+  width: 592px;
+  height: 608px;
+}
+
+.button-dark-sctn_info {
+  width: 263px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.sctn_info_block-title {
+  width: 450px;
+  font-family: "DM Serif Display";
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  letter-spacing: 0.22px;
+  color: #292f36;
+  margin-top: 13px;
+  margin-bottom: 42px;
+}
+
+.sctn_info_block-text {
+  width: 531px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.22px;
+  margin-right: 61px;
+  color: #4d5053;
+}
+
+.sctn_info_card {
+  display: flex;
+  align-items: center;
+  width: 532px;
+  height: 100%;
+}
+
+.info_card-item {
+  width: 154px;
+  font-weight: 400;
+  color: #4d5053;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.info_card-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 93px;
+  height: 93px;
+  background: #f4f0ec;
+  border-radius: 50%;
+  border: none;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.info_card-phone-number {
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.22px;
+}
+
+.info_card-call-to-action {
+  font-size: 22px;
+  line-height: 33px;
 }
