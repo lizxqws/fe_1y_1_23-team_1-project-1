@@ -353,7 +353,7 @@ html {
 
 .the_line{
   border: 1px solid #E5E5E5;
-  width: 100vw;
+  width: 100%;
 }
 
 .sctn_recent-projects {
@@ -431,7 +431,6 @@ html {
 }
 
 .ftr-ftr{
-  width: 1440px;
   text-align: center;
 }
 
@@ -551,7 +550,6 @@ html {
 
 
 .section-recent-blogs {
-  height: 1343.78125px;
 width: 100%;
 border-radius: 0px;
 
@@ -614,8 +612,6 @@ margin-top: 20px;
 }
 .recent-blogs-for_display-flex2 {
 display: flex;
-padding-left: 20px;
-margin-left: 94px;
 }
 .recent-blogs-container-firstline {
   margin-top: 70px;
@@ -624,5 +620,6 @@ margin-left: 94px;
   margin-top: 40px;
 }
 .recent-blogs-size_foto {
-  height: 296px; width: 345px;
+  height: 296px; 
+  width: 345px;
 }
