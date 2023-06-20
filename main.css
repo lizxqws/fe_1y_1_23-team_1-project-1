@@ -26,7 +26,7 @@ html {
   margin-left: 0;
 }
 
-.ftr-card > h2 {
+.ftr-card>h2 {
   font-family: "DM Serif Display";
   font-weight: 400;
   font-size: 25px;
@@ -164,10 +164,12 @@ html {
   color: #4d5053;
   text-decoration: none;
 }
+
 .headertext {
   margin: 20px;
   height: 30px;
 }
+
 .navigation-container {
   display: flex;
 }
@@ -195,6 +197,57 @@ html {
   flex-direction: row;
   justify-content: space-between;
 }
+
+.headertext:hover {
+  color: #CDA274;
+}
+
+.section-statistics {
+  height: 475px;
+  width: 100%;
+  background-color: #F4F0EC;
+  border-radius: 0px;
+  padding-top: 154px;
+
+}
+
+.statistics-container-all {
+  display: flex;
+  border-radius: 0px;
+  justify-content: space-around;
+}
+
+.statistics-title-text1 {
+  font-family: DM Serif Display;
+  font-size: 85px;
+  font-weight: 400;
+  letter-spacing: 1.70px;
+  color: #CDA274;
+}
+
+.statistics-title-text2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  letter-spacing: 0.22px;
+  color: #4D5053;
+}
+
+.section-statistics-border {
+  border-right: 2px solid #CDA274;
+  height: 195px;
+  width: 288px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section-statistics-border:last-child {
+  border: none;
+}
+
 
 .banner{
   background-image:url(assets/bghone.png) ;
@@ -300,7 +353,7 @@ html {
 
 .the_line{
   border: 1px solid #E5E5E5;
-  width: 100vw;
+  width: 100%;
 }
 
 .sctn_recent-projects {
@@ -378,7 +431,6 @@ html {
 }
 
 .ftr-ftr{
-  width: 1440px;
   text-align: center;
 }
 
@@ -494,4 +546,80 @@ html {
 .info_card-call-to-action {
   font-size: 22px;
   line-height: 33px;
+}
+
+
+.section-recent-blogs {
+width: 100%;
+border-radius: 0px;
+
+}
+.titletext-recent-blogs1 {
+  font-family: DM Serif Display;
+font-size: 48px;
+font-weight: 400;
+line-height: 62px;
+letter-spacing: 0.2199999988079071px;
+text-align: center;
+}
+.titletext-recent-blogs2 {
+  font-family: Jost;
+font-size: 22px;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0.2199999988079071px;
+text-align: center;
+
+}
+.recent-blogs-containerall {
+  height: 515px;
+width: 387px;
+border-radius: 62px;
+border: 1px solid #E7E7E7;
+padding-left: 21px;
+padding-top: 21px;
+margin-left: 20px;
+
+}
+.text1-recent-blogs-container {
+  height: 70px;
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 35px;
+letter-spacing: 0.5px;
+color: #292F36;
+margin-top: 15px;
+}
+.text2-recent-blogs-container {
+  padding-top: 34px;
+  font-family: Jost;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.2199999988079071px;
+text-align: left;
+
+}
+.button-recent-blogs {
+  padding-left: 125px;
+margin-top: 20px;
+}
+.recent-blogs-for_display-flex {
+  display: flex;
+  
+}
+.recent-blogs-for_display-flex2 {
+display: flex;
+}
+.recent-blogs-container-firstline {
+  margin-top: 70px;
+}
+.recent-blogs-container-firstline2 {
+  margin-top: 40px;
+}
+.recent-blogs-size_foto {
+  height: 296px; 
+  width: 345px;
 }
