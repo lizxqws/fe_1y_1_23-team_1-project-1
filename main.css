@@ -26,7 +26,7 @@ html {
   margin-left: 0;
 }
 
-.ftr-card > h2 {
+.ftr-card>h2 {
   font-family: "DM Serif Display";
   font-weight: 400;
   font-size: 25px;
@@ -165,75 +165,88 @@ html {
   color: #4d5053;
   text-decoration: none;
 }
+
 .headertext {
-margin: 20px;
-height: 30px;
-}
-.navigation-container {
-    display: flex;
+  margin: 20px;
+  height: 30px;
 }
 
-.our_clients{
+.navigation-container {
   display: flex;
 }
 
-.clients{
-    margin:auto 0;
-    padding-left: 130px;
+.our_clients {
+  display: flex;
 }
 
-.client1{
-    padding-left: 0;
+.clients {
+  margin: auto 0;
+  padding-left: 130px;
+}
+
+.client1 {
+  padding-left: 0;
 }
 
 .logo {
-    height: 50px;
-    width: 177px;
+  height: 50px;
+  width: 177px;
 }
 
 .headerconteiner {
-    display: flex;
-    flex-direction: row;
-   justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .headertext:hover {
-    color: #CDA274;
+  color: #CDA274;
 }
+
 .section-statistics {
   height: 475px;
-width: 1440px;
-background-color:#F4F0EC;
-border-radius: 0px;;
-border-radius: 0px;
-padding-top: 154px;
-text-align: center;
+  width: 100%;
+  background-color: #F4F0EC;
+  border-radius: 0px;
+  ;
+  border-radius: 0px;
+  padding-top: 154px;
+
 }
+
 .statistics-container-all {
   display: flex;
-border-radius: 0px;
-justify-content: space-around;
+  border-radius: 0px;
+  justify-content: space-around;
 }
+
 .statistics-title-text1 {
-border-radius: nullpx;
-font-family: DM Serif Display;
-font-size: 85px;
-font-weight: 400;
-letter-spacing: 1.7000000476837158px;
-text-align: center;
-color: #CDA274;
+  font-family: DM Serif Display;
+  font-size: 85px;
+  font-weight: 400;
+  letter-spacing: 1.70px;
+  color: #CDA274;
 }
+
 .statistics-title-text2 {
-  font-family: 'Jost';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
-line-height: 33px;
-text-align: center;
-letter-spacing: 0.22px;
-color: #4D5053;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  letter-spacing: 0.22px;
+  color: #4D5053;
 }
-.vertical1 {
-  border-left: 1px solid  #CDA274;
+
+.section-statistics-border {
+  border-right: 2px solid #CDA274;
   height: 195px;
+  width: 288px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section-statistics-border:last-child {
+  border: none;
 }
