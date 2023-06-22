@@ -14,6 +14,7 @@ html {
 
 .ftr-block {
   display: flex;
+  margin-top: 130px;
 }
 
 .ftr-card {
@@ -26,7 +27,7 @@ html {
   margin-left: 0;
 }
 
-.ftr-card>h2 {
+.ftr-card > h2 {
   font-family: "DM Serif Display";
   font-weight: 400;
   font-size: 25px;
@@ -103,7 +104,6 @@ html {
 
 .service-block {
   display: flex;
-  margin-bottom: 100px;
   margin-top: 100px;
 }
 
@@ -176,6 +176,7 @@ html {
 
 .our_clients {
   display: flex;
+  margin-top: 140px;
 }
 
 .clients {
@@ -196,19 +197,20 @@ html {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  margin-top: 26px;
 }
 
 .headertext:hover {
-  color: #CDA274;
+  color: #cda274;
 }
 
 .section-statistics {
   height: 475px;
   width: 100%;
-  background-color: #F4F0EC;
+  background-color: #f4f0ec;
   border-radius: 0px;
   padding-top: 154px;
-
+  margin-top: 80px;
 }
 
 .statistics-container-all {
@@ -221,8 +223,8 @@ html {
   font-family: DM Serif Display;
   font-size: 85px;
   font-weight: 400;
-  letter-spacing: 1.70px;
-  color: #CDA274;
+  letter-spacing: 1.7px;
+  color: #cda274;
 }
 
 .statistics-title-text2 {
@@ -231,11 +233,11 @@ html {
   font-size: 22px;
   line-height: 33px;
   letter-spacing: 0.22px;
-  color: #4D5053;
+  color: #4d5053;
 }
 
 .section-statistics-border {
-  border-right: 2px solid #CDA274;
+  border-right: 2px solid #cda274;
   height: 195px;
   width: 288px;
   display: flex;
@@ -248,119 +250,119 @@ html {
   border: none;
 }
 
-
-.banner{
-  background-image:url(assets/bghone.png) ;
+.banner {
+  background-image: url(assets/bghone.png);
   background-size: 100%;
   background-repeat: no-repeat;
   height: 831px;
   width: 100%;
+  margin-top: 18px;
 }
 
-.bigtitle{
+.bigtitle {
   padding: 188px 0 19px 120px;
-  font-family: 'DM Serif Display', serif;
+  font-family: "DM Serif Display", serif;
   font-size: 80px;
   color: #292f36;
   width: 595px;
 }
 
-.title{
+.title {
   padding: 0 0 35px 120px;
   width: 577px;
 }
 
-.button-dark-top{
-  margin-left: 120px; 
+.button-dark-top {
+  margin-left: 120px;
 }
 
 .headertext:hover {
-    color: #CDA274;
+  color: #cda274;
 }
 .reviews-container {
-    height: 675px;
-    width: 1200px;
-    background: #F4F0EC;
-    border-radius: 70px;
-    padding-top: 103px;
+  height: 675px;
+  width: 1200px;
+  background: #f4f0ec;
+  border-radius: 70px;
+  padding-top: 103px;
+  margin-top: 140px;
 }
 .texttitle-reviews {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 45px;
-    margin-left: 361px;
-    width: 479px;
-    height: 59px;
-    text-align: center;
-    color: #292F36;
-    font-family: 'DM Serif Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  margin-left: 361px;
+  width: 479px;
+  height: 59px;
+  text-align: center;
+  color: #292f36;
+  font-family: "DM Serif Display";
 }
 .reviewer-item {
-    margin-top: 80px;
-    height: 287px;
-    width: 354px;
-    background-color: white;
-    border-radius: 30px;
-    margin-left: 18px;
+  margin-top: 80px;
+  height: 287px;
+  width: 354px;
+  background-color: white;
+  border-radius: 30px;
+  margin-left: 18px;
 }
 .feedback-container {
-    display: flex;
-    margin-left: -18px;
-    justify-content: center;
+  display: flex;
+  margin-left: -18px;
+  justify-content: center;
 }
 .reviewer-item__heading {
-    display: flex;
+  display: flex;
 }
 
 .reviewer-item__img {
-    margin-top: 50px;
-    margin-left: 35px;
+  margin-top: 50px;
+  margin-left: 35px;
+}
+.reviewer-item__img-picture {
+  width: 77px;
+  height: 77px;
 }
 .reviewer-item__title {
-    margin-top: 55px;
-    margin-left: 20px;   
+  margin-top: 55px;
+  margin-left: 20px;
 }
 .text-titlerewiews1 {
-    font-family: 'DM Serif Display';
-    color: #292F36;
-    font-size: 25px;
-    font-style: normal;
-    font-weight: 400;
-} 
+  font-family: "DM Serif Display";
+  color: #292f36;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
 .text-titlerewiews2 {
-    font-family: 'Jost';
-    font-style: normal;
-    font-size: 18px;
-    line-height: 27px;
-    color: #4D5053;
-    font-style: normal;
-    font-weight: 400;
+  font-family: "Jost";
+  font-style: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: #4d5053;
+  font-style: normal;
+  font-weight: 400;
 }
 .text-titlerewiews3 {
-    font-family: 'Jost';
-    font-style: normal;
-    font-size: 20px;
-    letter-spacing: 0.22px;
-    color: #4D5053;
-    margin-top: 25px;
-    margin-left: 35px;
+  font-family: "Jost";
+  font-style: normal;
+  font-size: 20px;
+  letter-spacing: 0.22px;
+  color: #4d5053;
+  margin-top: 25px;
+  margin-left: 35px;
 }
 
-
-
-
-
-
-.the_line{
-  border: 1px solid #E5E5E5;
+.the_line {
+  border: 1px solid #e5e5e5;
   width: 100%;
 }
 
 .sctn_recent-projects {
-  margin-bottom: 80px;
   font-weight: 400;
   letter-spacing: 0.22px;
   color: #4d5053;
+  margin-top: 100px;
 }
 
 .recent-projects-block {
@@ -411,65 +413,65 @@ html {
   line-height: 33px;
 }
 
-.ftr-text{
-  color: #4D5053;
+.ftr-text {
+  color: #4d5053;
   margin: 25px 83px 30px 0;
   width: 326px;
 }
 
-.logo{
+.logo {
   margin-right: 40px;
 }
 
-.logo:last-child{
+.logo:last-child {
   margin-right: 0;
 }
 
-.copyright{
+.copyright {
   padding: 35px 0 36px;
-  color: #4D5053;
+  color: #4d5053;
 }
 
-.ftr-ftr{
+.ftr-ftr {
   text-align: center;
+  margin-top: 80px;
 }
 
-.contactUs{
-  background-color: #292F36;
+.contactUs {
+  background-color: #292f36;
   border-radius: 70px;
   margin: 141px auto 129px;
+  margin-top: 100px;
 }
 
-
-.Wjti{
+.Wjti {
   color: #ffffff;
   font-size: 50px;
-  font-family: 'DM Serif Display', serif;
+  font-family: "DM Serif Display", serif;
   padding: 100px 0 9px;
   text-align: center;
 }
 
-.lastbutton{
+.lastbutton {
   padding: 31px 0 95px 0;
   text-align: center;
   display: flex;
   justify-content: center;
 }
 
-.CUGaFC{
+.CUGaFC {
   color: #ffffff;
   text-align: center;
 }
 
-.nikname{
-  color: #CDA274;
+.nikname {
+  color: #cda274;
 }
 
 .sctn_info_container {
   display: flex;
   align-items: center;
   margin-top: 100px;
-  margin-bottom: 140px;
 }
 
 .sctn_info_block {
@@ -548,70 +550,65 @@ html {
   line-height: 33px;
 }
 
-
 .section-recent-blogs {
-width: 100%;
-border-radius: 0px;
-
+  width: 100%;
+  border-radius: 0px;
+  margin-top: 130px;
 }
 .titletext-recent-blogs1 {
   font-family: DM Serif Display;
-font-size: 48px;
-font-weight: 400;
-line-height: 62px;
-letter-spacing: 0.2199999988079071px;
-text-align: center;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 62px;
+  letter-spacing: 0.2199999988079071px;
+  text-align: center;
 }
 .titletext-recent-blogs2 {
   font-family: Jost;
-font-size: 22px;
-font-weight: 400;
-line-height: 33px;
-letter-spacing: 0.2199999988079071px;
-text-align: center;
-
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.2199999988079071px;
+  text-align: center;
 }
 .recent-blogs-containerall {
   height: 515px;
-width: 387px;
-border-radius: 62px;
-border: 1px solid #E7E7E7;
-padding-left: 21px;
-padding-top: 21px;
-margin-left: 20px;
-
+  width: 387px;
+  border-radius: 62px;
+  border: 1px solid #e7e7e7;
+  padding-left: 21px;
+  padding-top: 21px;
+  margin-left: 20px;
 }
 .text1-recent-blogs-container {
   height: 70px;
-font-family: 'DM Serif Display';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 35px;
-letter-spacing: 0.5px;
-color: #292F36;
-margin-top: 15px;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 35px;
+  letter-spacing: 0.5px;
+  color: #292f36;
+  margin-top: 15px;
 }
 .text2-recent-blogs-container {
   padding-top: 34px;
   font-family: Jost;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0.2199999988079071px;
-text-align: left;
-
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.2199999988079071px;
+  text-align: left;
 }
 .button-recent-blogs {
   padding-left: 125px;
-margin-top: 20px;
+  margin-top: 20px;
 }
 .recent-blogs-for_display-flex {
   display: flex;
-  
 }
 .recent-blogs-for_display-flex2 {
-display: flex;
+  display: flex;
 }
 .recent-blogs-container-firstline {
   margin-top: 70px;
@@ -620,6 +617,10 @@ display: flex;
   margin-top: 40px;
 }
 .recent-blogs-size_foto {
-  height: 296px; 
+  height: 296px;
   width: 345px;
+}
+
+.hidden-titles {
+  display: none;
 }
