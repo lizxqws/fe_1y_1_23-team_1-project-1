@@ -14,6 +14,7 @@ html {
 
 .ftr-block {
   display: flex;
+  margin-top: 130px;
 }
 
 .ftr-card {
@@ -103,7 +104,6 @@ html {
 
 .service-block {
   display: flex;
-  margin-bottom: 100px;
   margin-top: 100px;
 }
 
@@ -176,6 +176,7 @@ html {
 
 .our_clients {
   display: flex;
+  margin-top: 140px;
 }
 
 .clients {
@@ -196,6 +197,7 @@ html {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  margin-top: 26px;
 }
 
 .headertext:hover {
@@ -208,6 +210,7 @@ html {
   background-color: #f4f0ec;
   border-radius: 0px;
   padding-top: 154px;
+  margin-top: 80px;
 }
 
 .statistics-container-all {
@@ -253,6 +256,7 @@ html {
   background-repeat: no-repeat;
   height: 831px;
   width: 100%;
+  margin-top: 18px;
 }
 
 .bigtitle {
@@ -281,6 +285,7 @@ html {
   background: #f4f0ec;
   border-radius: 70px;
   padding-top: 103px;
+  margin-top: 140px;
 }
 .texttitle-reviews {
   font-style: normal;
@@ -354,10 +359,10 @@ html {
 }
 
 .sctn_recent-projects {
-  margin-bottom: 80px;
   font-weight: 400;
   letter-spacing: 0.22px;
   color: #4d5053;
+  margin-top: 100px;
 }
 
 .recent-projects-block {
@@ -429,12 +434,14 @@ html {
 
 .ftr-ftr {
   text-align: center;
+  margin-top: 80px;
 }
 
 .contactUs {
   background-color: #292f36;
   border-radius: 70px;
   margin: 141px auto 129px;
+  margin-top: 100px;
 }
 
 .Wjti {
@@ -465,7 +472,6 @@ html {
   display: flex;
   align-items: center;
   margin-top: 100px;
-  margin-bottom: 140px;
 }
 
 .sctn_info_block {
@@ -547,6 +553,7 @@ html {
 .section-recent-blogs {
   width: 100%;
   border-radius: 0px;
+  margin-top: 130px;
 }
 .titletext-recent-blogs1 {
   font-family: DM Serif Display;
